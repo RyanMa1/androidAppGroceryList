@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="edit_password">Password</string>
+    <string name="edit_username">Username</string>
+    <string name="button_register">Create Account</string>
+    <string name="button_signIn">Sign In</string>
+    <string name="textView_status">status</string>
+    <string name="textView_detail">Email and Password</string>
+    <string name="emailSignIn">Sign In</string>
+    <string name="loading">loading</string>
+    <string name="auth_failed">failed</string>
+    <string name="debug_textView">DEBUG</string>
+    <string name="signOut_button">Sign Out</string>
+
+</resources>
